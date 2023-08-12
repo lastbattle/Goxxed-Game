@@ -5,7 +5,7 @@ In tribute to the fallen exchange -- https://mtgox.com
 The history of bitcoin.
 when un-gox bitcoins? 
 
-Play it here: https://eaxvac.github.io/Goxxed-Game/html%20js/ 
+Play it here: [https://eaxvac.github.io/Goxxed-Game/html%20js/ ](https://lastbattle.github.io/Goxxed-Game/html%20js/)
 
 #### Requirements:
  - Construct 2 game engine: https://www.scirra.com/
